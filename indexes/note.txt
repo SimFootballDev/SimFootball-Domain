@@ -1,0 +1,1 @@
+Note that mainindex.html is parsed by the main domain index (sim-football.com/index.html) to avoid giving direct FTP access to any user outside the indexes folder.
