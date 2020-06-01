@@ -64,7 +64,7 @@ const safetyCenterFielder = {
   kickaccuracyMax: 25
 };
 
-const safetyPlayermaker = {
+const safetyPlaymaker = {
   position: 'Safety',
   shortPosition: 'S',
   archetype: 'Playmaker',
@@ -135,7 +135,7 @@ const safetyAllAround = {
   shortPosition: 'S',
   archetype: 'All Around',
   baseTpe: 446,
-  strengthMin: 45,
+  strengthMin: 75,
   strengthMax: 45,
   agilityMin: 65,
   agilityMax: 95,
