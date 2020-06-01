@@ -267,7 +267,7 @@ const defensiveTackleBalanced = {
   shortPosition: 'DT',
   archetype: 'Balanced',
   baseTpe: 341,
-  strengthMin: 50,
+  strengthMin: 60,
   strengthMax: 90,
   agilityMin: 45,
   agilityMax: 75,
