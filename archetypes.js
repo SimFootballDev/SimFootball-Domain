@@ -266,7 +266,7 @@ const defensiveTackleBalanced = {
   position: 'Defensive Tackle',
   shortPosition: 'DT',
   archetype: 'Balanced',
-  baseTpe: 341,
+  baseTpe: 361,
   strengthMin: 60,
   strengthMax: 90,
   agilityMin: 45,
